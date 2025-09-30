@@ -25,3 +25,6 @@ The full compiled PDF is available [here](Cuboid_conjecture_1.pdf).
 ## Author
 Valery Asiryan, 2025  
 asiryanvalery@gmail.com
+
+## Feedback
+If you find a mistake in my proof or notice a gap in the reasoning, please let me know — I will be grateful for your feedback and corrections.
