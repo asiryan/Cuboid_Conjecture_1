@@ -20,7 +20,7 @@ This polynomial arises in the study of the **first cuboid conjecture**, related 
 See the [Wikipedia article on Euler bricks – Cuboid conjectures](https://en.wikipedia.org/wiki/Euler_brick#Cuboid_conjectures) for background.
 
 ## Preprint
-The full compiled PDF is available [here](Cuboid_conjecture_1.pdf).
+The full compiled PDF is available [here](v2/Cuboid_conjecture_1.pdf) (v2).
 
 ## Author
 Valery Asiryan, 2025  
