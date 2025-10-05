@@ -35,7 +35,7 @@ Here is history of changes and results.
 ✔️ — absolutely correct  
 ❌ — incorrect or contains fatal flaws  
 ✍️ — incomplete or draft  
-⚠️ — contains edge cases or exceptions
+⚠️ — contains unresolved edge cases
 
 ## Verification
 ✔️ Checked with [GPT-5](https://chatgpt.com/) (Pro) and [Gemini](https://gemini.google.com/app) (Ultra).
