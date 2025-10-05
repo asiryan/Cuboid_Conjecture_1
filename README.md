@@ -25,11 +25,11 @@ The full compiled PDF is available [here](v3/Cuboid_conjecture_1.pdf) (latest ve
 ## Versions
 Here is history of changes and results.
 
-| Version | Case E | Case C | 4 + 4 | 2 + 6 |
-|:-------:|:------:|:------:|:-----:|:-----:|
-| [Version 1](v1/Cuboid_conjecture_1.pdf) | ✔️ | ✍️ | ❌ | ✔️ |
-| [Version 2](v2/Cuboid_conjecture_1.pdf) | ✔️ | ❌ | ⚠️ | ✔️ |
-| [Version 3](v3/Cuboid_conjecture_1.pdf) | ✔️ | ✔️ | ⚠️ | ✔️ |
+| Version | Date       | Case E | Case C | 4 + 4 | 2 + 6 |
+|:-------:|:----------:|:------:|:------:|:-----:|:-----:|
+| [Version 1](v1/Cuboid_conjecture_1.pdf) | 2025-09-29 | ✔️ | ✍️ | ❌ | ✔️ |
+| [Version 2](v2/Cuboid_conjecture_1.pdf) | 2025-10-04 | ✔️ | ❌ | ⚠️ | ✔️ |
+| [Version 3](v3/Cuboid_conjecture_1.pdf) | 2025-10-05 | ✔️ | ✔️ | ⚠️ | ✔️ |
 
 **Notation:**  
 ✔️ — absolutely correct  
