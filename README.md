@@ -22,6 +22,21 @@ See the [Wikipedia article on Euler bricks – Cuboid conjectures](https://en.wi
 ## Preprint
 The full compiled PDF is available [here](v3/Cuboid_conjecture_1.pdf) (v3).
 
+## Versions
+Here is history of changes and results.
+
+| Version | Case E | Case C | 4 + 4 | 2 + 6 |
+|:-------:|:------:|:------:|:-----:|:-----:|
+| [Version 1](v1/Cuboid_conjecture_1.pdf) | ✔️ | ✍️ | ❌ | ✔️ |
+| [Version 2](v2/Cuboid_conjecture_1.pdf) | ✔️ | ❌ | ⚠️ | ✔️ |
+| [Version 3](v3/Cuboid_conjecture_1.pdf) | ✔️ | ✔️ | ⚠️ | ✔️ |
+
+**Notation:**  
+✔️ — absolutely correct  
+❌ — incorrect or contains fatal flaws  
+✍️ — incomplete or draft  
+⚠️ — contains edge cases or exceptions
+
 ## Author
 Valery Asiryan, 2025  
 asiryanvalery@gmail.com
