@@ -37,6 +37,9 @@ Here is history of changes and results.
 ✍️ — incomplete or draft  
 ⚠️ — contains edge cases or exceptions
 
+## Verification
+✔️ Checked with [GPT-5](https://chatgpt.com/) (Pro) and [Gemini](https://gemini.google.com/app) (Ultra).
+
 ## Author
 Valery Asiryan, 2025  
 asiryanvalery@gmail.com
