@@ -42,4 +42,4 @@ Valery Asiryan, 2025
 asiryanvalery@gmail.com
 
 ## Feedback
-If you find a mistake in my proof or notice a gap in the reasoning, please let me know — I will be grateful for your feedback and corrections.
+If you spot an error, a gap, or a way to strengthen the proof, please let me know — I’d be grateful for any feedback or corrections.
