@@ -20,7 +20,7 @@ This polynomial arises in the study of the **first cuboid conjecture**, related 
 See the [Wikipedia article on Euler bricks – Cuboid conjectures](https://en.wikipedia.org/wiki/Euler_brick#Cuboid_conjectures) for background.
 
 ## Preprint
-The full compiled PDF is available [here](main/v6/Cuboid_conjecture_1.pdf) (latest version).
+The full compiled PDF is available [here](main/v7/Cuboid_conjecture_1.pdf) (latest version).
 
 ## Versions
 Here is history of changes and results.
@@ -33,6 +33,7 @@ Here is history of changes and results.
 | [Version 4](main/v4/Cuboid_conjecture_1.pdf) | 2025-10-05 | ✔️ | ✔️ | ⚠️ | ✔️ |
 | [Version 5](main/v5/Cuboid_conjecture_1.pdf) | 2025-10-08 | ✔️ | ✔️ | ⚠️ | ✔️ |
 | [Version 6](main/v6/Cuboid_conjecture_1.pdf) | 2025-10-08 | ✔️ | ✔️ | 🧩 | ✔️ |
+| [Version 7](main/v7/Cuboid_conjecture_1.pdf) | 2025-10-09 | ✔️ | ✔️ | ✔️ | ✔️ |
 
 **Notation:**  
 ✔️ — absolutely correct  
