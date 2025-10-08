@@ -36,10 +36,10 @@ Here is history of changes and results.
 
 **Notation:**  
 ✔️ — absolutely correct  
-❌ — incorrect / fatal flaws  
 ✍️ — incomplete / draft  
-⚠️ — unresolved edge cases  
 🧩 — conjectural  
+❌ — incorrect / fatal flaws  
+⚠️ — unresolved edge cases  
 
 ## Verification
 ✔️ Checked with [GPT-5](https://chatgpt.com/) (Pro) and [Gemini](https://gemini.google.com/app) (Ultra).
