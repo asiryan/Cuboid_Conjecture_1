@@ -32,12 +32,14 @@ Here is history of changes and results.
 | [Version 3](main/v3/Cuboid_conjecture_1.pdf) | 2025-10-05 | ✔️ | ✔️ | ❌ | ✔️ |
 | [Version 4](main/v4/Cuboid_conjecture_1.pdf) | 2025-10-05 | ✔️ | ✔️ | ⚠️ | ✔️ |
 | [Version 5](main/v5/Cuboid_conjecture_1.pdf) | 2025-10-08 | ✔️ | ✔️ | ⚠️ | ✔️ |
+| [Version 6](main/v6/Cuboid_conjecture_1.pdf) | 2025-10-08 | ✔️ | ✔️ | 🧩 | ✔️ |
 
 **Notation:**  
 ✔️ — absolutely correct  
-❌ — incorrect or contains fatal flaws  
-✍️ — incomplete or draft  
-⚠️ — contains unresolved edge cases
+❌ — incorrect / fatal flaws  
+✍️ — incomplete / draft  
+⚠️ — unresolved edge cases  
+🧩 — conjectural  
 
 ## Verification
 ✔️ Checked with [GPT-5](https://chatgpt.com/) (Pro) and [Gemini](https://gemini.google.com/app) (Ultra).
