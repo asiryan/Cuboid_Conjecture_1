@@ -10,7 +10,8 @@ The proof systematically excludes all possible degree-8 factorizations. The argu
 
 - **Gauss’s lemma** for primitivity and monicity,  
 - **parity and involution symmetry**,  
-- **\(p\)-adic valuations** (2-adic and 3-adic analysis),  
+- **\(p\)-adic valuations** (2-adic and 3-adic analysis),
+- **an elliptic-curve reduction** with Mordell-Weil analysis,  
 - **a discriminant obstruction** for the final even quadratic divisor case.  
 
 Together, these tools establish that no nontrivial factorization exists, proving full irreducibility.
