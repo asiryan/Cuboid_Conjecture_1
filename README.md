@@ -43,7 +43,7 @@ Here is history of changes and results.
 ⚠️ — unresolved edge cases  
 
 ## Verification
-✔️ Checked with [GPT-5](https://chatgpt.com/) (Thinking, Pro) and [Gemini-2.5-Pro](https://gemini.google.com/app) (Deep Think, Ultra).
+✔️ Checked with [GPT-5](https://chatgpt.com/) (Pro) and [Gemini-2.5-Pro](https://gemini.google.com/app) (Deep Think).
 
 ## Author
 Valery Asiryan, 2025  
