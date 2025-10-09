@@ -25,15 +25,15 @@ The full compiled PDF is available [here](main/v7/Cuboid_conjecture_1.pdf) (late
 ## Versions
 Here is history of changes and results.
 
-| Version | Date       | Case E | Case C | 4 + 4 | 2 + 6 |
-|:-------:|:----------:|:------:|:------:|:-----:|:-----:|
-| [Version 1](main/v1/Cuboid_conjecture_1.pdf) | 2025-09-29 | ✔️ | ✍️ | ✍️ | ✔️ |
-| [Version 2](main/v2/Cuboid_conjecture_1.pdf) | 2025-10-04 | ✔️ | ❌ | ❌️ | ✔️ |
-| [Version 3](main/v3/Cuboid_conjecture_1.pdf) | 2025-10-05 | ✔️ | ✔️ | ❌ | ✔️ |
-| [Version 4](main/v4/Cuboid_conjecture_1.pdf) | 2025-10-05 | ✔️ | ✔️ | ⚠️ | ✔️ |
-| [Version 5](main/v5/Cuboid_conjecture_1.pdf) | 2025-10-08 | ✔️ | ✔️ | ⚠️ | ✔️ |
-| [Version 6](main/v6/Cuboid_conjecture_1.pdf) | 2025-10-08 | ✔️ | ✔️ | 🧩 | ✔️ |
-| [Version 7](main/v7/Cuboid_conjecture_1.pdf) | 2025-10-09 | ✔️ | ✔️ | ✔️ | ✔️ |
+| Version | Language       | Date       | Case E | Case C | 4 + 4 | 2 + 6 |
+|:-------:|:----------:|:----------:|:------:|:------:|:-----:|:-----:|
+| [Version 1](main/v1/Cuboid_conjecture_1.pdf) | EN | 2025-09-29 | ✔️ | ✍️ | ✍️ | ✔️ |
+| [Version 2](main/v2/Cuboid_conjecture_1.pdf) | EN | 2025-10-04 | ✔️ | ❌ | ❌️ | ✔️ |
+| [Version 3](main/v3/Cuboid_conjecture_1.pdf) | EN | 2025-10-05 | ✔️ | ✔️ | ❌ | ✔️ |
+| [Version 4](main/v4/Cuboid_conjecture_1.pdf) | EN | 2025-10-05 | ✔️ | ✔️ | ⚠️ | ✔️ |
+| [Version 5](main/v5/Cuboid_conjecture_1.pdf) | EN | 2025-10-08 | ✔️ | ✔️ | ⚠️ | ✔️ |
+| [Version 6](main/v6/Cuboid_conjecture_1.pdf) | EN | 2025-10-08 | ✔️ | ✔️ | 🧩 | ✔️ |
+| [Version 7](main/v7/Cuboid_conjecture_1.pdf) | EN | 2025-10-09 | ✔️ | ✔️ | ✔️ | ✔️ |
 
 **Notation:**  
 ✔️ — correct  
