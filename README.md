@@ -36,9 +36,9 @@ Here is history of changes and results.
 | [Version 7](main/v7/Cuboid_conjecture_1.pdf) | 2025-10-09 | ✔️ | ✔️ | ✔️ | ✔️ |
 
 **Notation:**  
-✔️ — absolutely correct  
-✍️ — incomplete / draft  
+✔️ — correct  
 🧩 — conjectural  
+✍️ — incomplete / draft  
 ❌ — incorrect / fatal flaws  
 ⚠️ — unresolved edge cases  
 
