@@ -22,7 +22,7 @@ See the [Wikipedia article on Euler bricks – Cuboid conjectures](https://en.wi
 
 ## Preprint
 The full compiled PDF is available [here](main/v7/Cuboid_conjecture_1.pdf) (latest version).  
-Also available on [Arxiv](https://arxiv.org/abs/2510.07643).  
+Also available on [arXiv](https://arxiv.org/abs/2510.07643).  
 
 ## Versions
 Here is history of changes and results.
