@@ -36,6 +36,7 @@ Here is history of changes and results.
 | [Version 5](main/v5/Cuboid_conjecture_1.pdf) | EN | 2025-10-08 | ✔️ | ✔️ | ⚠️ | ✔️ |
 | [Version 6](main/v6/Cuboid_conjecture_1.pdf) | EN | 2025-10-08 | ✔️ | ✔️ | 🧩 | ✔️ |
 | [Version 7](main/v7/Cuboid_conjecture_1.pdf) | EN | 2025-10-09 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Version 8](main/v8/Cuboid_conjecture_1.pdf) | EN, [RU](main/v8/ru/Cuboid_conjecture_1_RU.pdf) | 2025-10-12 | ✔️ | ✔️ | ✔️ | ✔️ |
 
 **Notation:**  
 ✔️ — correct  
