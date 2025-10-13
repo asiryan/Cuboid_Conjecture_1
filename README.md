@@ -21,7 +21,7 @@ This polynomial arises in the study of the **first cuboid conjecture**, related 
 See the [Wikipedia article on Euler bricks – Cuboid conjectures](https://en.wikipedia.org/wiki/Euler_brick#Cuboid_conjectures) for background.
 
 ## Preprints
-Here is history of changes and results of the main proof.
+History of changes and results of the main proof. Also available on [arXiv](https://arxiv.org/abs/2510.07643).
 
 | Version | Language       | Date       | Case E | Case C | 4 + 4 | 2 + 6 |
 |:-------:|:----------:|:----------:|:------:|:------:|:-----:|:-----:|
@@ -34,7 +34,11 @@ Here is history of changes and results of the main proof.
 | [Version 7](main/v7/Cuboid_conjecture_1.pdf) | EN | 2025-10-09 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Version 8](main/v8/Cuboid_conjecture_1.pdf) | EN, [RU](main/v8/ru/Cuboid_conjecture_1_RU.pdf) | 2025-10-12 | ✔️ | ✔️ | ✔️ | ✔️ |
 
-Also available on [arXiv](https://arxiv.org/abs/2510.07643).  
+History of changes and results of the short proof. **NEW!**
+
+| Version | Language       | Date       | Case E | Case C | 4 + 4 | 2 + 6 |
+|:-------:|:----------:|:----------:|:------:|:------:|:-----:|:-----:|
+| [Version 1](short/v1/Cuboid_conjecture_1_short.pdf) | EN | 2025-10-13 | ✔️ | ✔️ | ✔️ | ✔️ |
 
 **Notation:**  
 ✔️ — correct  
