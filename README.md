@@ -21,7 +21,7 @@ This polynomial arises in the study of the **first cuboid conjecture**, related 
 See the [Wikipedia article on Euler bricks – Cuboid conjectures](https://en.wikipedia.org/wiki/Euler_brick#Cuboid_conjectures) for background.
 
 ## Preprint
-The full compiled PDF is available [here](main/v7/Cuboid_conjecture_1.pdf) (latest version).  
+The full compiled PDF is available [here](main/v8/Cuboid_conjecture_1.pdf) (latest version).  
 Also available on [arXiv](https://arxiv.org/abs/2510.07643).  
 
 ## Versions
