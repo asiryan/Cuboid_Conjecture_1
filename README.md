@@ -20,12 +20,8 @@ Together, these tools establish that no nontrivial factorization exists, proving
 This polynomial arises in the study of the **first cuboid conjecture**, related to the search for a *perfect cuboid* (Euler brick with integer face diagonals and space diagonal).  
 See the [Wikipedia article on Euler bricks – Cuboid conjectures](https://en.wikipedia.org/wiki/Euler_brick#Cuboid_conjectures) for background.
 
-## Preprint
-The full compiled PDF is available [here](main/v8/Cuboid_conjecture_1.pdf) (latest version).  
-Also available on [arXiv](https://arxiv.org/abs/2510.07643).  
-
-## Versions
-Here is history of changes and results.
+## Preprints
+Here is history of changes and results of the main proof.
 
 | Version | Language       | Date       | Case E | Case C | 4 + 4 | 2 + 6 |
 |:-------:|:----------:|:----------:|:------:|:------:|:-----:|:-----:|
@@ -37,6 +33,8 @@ Here is history of changes and results.
 | [Version 6](main/v6/Cuboid_conjecture_1.pdf) | EN | 2025-10-08 | ✔️ | ✔️ | 🧩 | ✔️ |
 | [Version 7](main/v7/Cuboid_conjecture_1.pdf) | EN | 2025-10-09 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Version 8](main/v8/Cuboid_conjecture_1.pdf) | EN, [RU](main/v8/ru/Cuboid_conjecture_1_RU.pdf) | 2025-10-12 | ✔️ | ✔️ | ✔️ | ✔️ |
+
+Also available on [arXiv](https://arxiv.org/abs/2510.07643).  
 
 **Notation:**  
 ✔️ — correct  
