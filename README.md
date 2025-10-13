@@ -38,7 +38,7 @@ History of changes and results of the short proof. **NEW!**
 
 | Version | Language       | Date       | Case E | Case C | 4 + 4 | 2 + 6 |
 |:-------:|:----------:|:----------:|:------:|:------:|:-----:|:-----:|
-| [Version 1](short/v1/Cuboid_conjecture_1_short.pdf) | EN | 2025-10-13 | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Version 1](short/v1/Cuboid_conjecture_1_short.pdf) | EN, [RU](short/v1/ru/Cuboid_conjecture_1_short_RU.pdf) | 2025-10-13 | ✔️ | ✔️ | ✔️ | ✔️ |
 
 **Notation:**  
 ✔️ — correct  
