@@ -17,7 +17,7 @@ The proof systematically excludes all possible degree-8 factorizations. The argu
 Together, these tools establish that no nontrivial factorization exists, proving full irreducibility.
 
 ## Context
-This polynomial arises in the study of the **first cuboid conjecture**, related to the search for a *perfect cuboid* (Euler brick with integer face diagonals and space diagonal).  
+This polynomial arises in the study of the **first cuboid conjecture**, related to the search for a *perfect cuboid* (Euler brick with integer face diagonals and space diagonal).
 See the [Wikipedia article on Euler bricks – Cuboid conjectures](https://en.wikipedia.org/wiki/Euler_brick#Cuboid_conjectures) for background.
 
 ## Preprints
