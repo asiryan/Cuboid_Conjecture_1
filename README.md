@@ -54,5 +54,8 @@ History of changes and results of the short proof. **NEW!**
 Valery Asiryan, 2025  
 asiryanvalery@gmail.com
 
+## Extra
+[EllipticCurves](https://github.com/asiryan/EllipticCurves) — .NET library for studying and working with elliptic curves (with LMFDB integration).
+
 ## Feedback
 If you spot an error, a gap, or a way to strengthen the proof, please let me know — I’d be grateful for any feedback or corrections.
