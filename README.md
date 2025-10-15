@@ -1,4 +1,4 @@
-# Irreducibility proof for the first cuboid polynomial \(P_{a,u}(t)\)
+# Irreducibility proof for the first cuboid polynomial P_{a,u}(t)
 This repository contains a complete proof that the degree-8 even **cuboid polynomial**  
   
 ![P_{a,u}(t)](https://latex.codecogs.com/svg.latex?P_{a,u}(t)=t^{8}+6(u^{2}-a^{2})t^{6}+(a^{4}-4a^{2}u^{2}+u^{4})t^{4}-6a^{2}u^{2}(u^{2}-a^{2})t^{2}+a^{4}u^{4})
